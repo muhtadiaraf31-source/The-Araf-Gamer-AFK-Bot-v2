@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TheArafGamerHosting",
+    "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TheArafGamerSMP.aternos.me",
-    "port": 58991,
+    "ip": "example.aternos.me",
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "TheArafGamer"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
